@@ -43,7 +43,7 @@ export const MSView = (props: MSViewProps) => {
         return "8";
 
       case "Bom":
-        return "B";
+        return "💣";
     }
   };
 
